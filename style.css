@@ -28,7 +28,7 @@
     padding: 10px 15px;
     display: inline-block;
     transition: color 0.3s ease; 
-  }
+ }
   
   nav ul li a:hover {
     background-color: #007bff; 
